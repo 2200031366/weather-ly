@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import config from '../config';
+import '../main/navbar.css';
+
 
 export default function ViewUsers() {
   const [users, setUsers] = useState([]);

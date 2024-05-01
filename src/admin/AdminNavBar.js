@@ -1,6 +1,7 @@
 import React from 'react';
 import { Route, Routes, Link, useNavigate } from 'react-router-dom';
 import './admin.css';
+import '../main/navbar.css'
 import '../config'
 
 import AdminHome from './AdminHome';

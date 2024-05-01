@@ -3,6 +3,7 @@ import './admin.css';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
 import config from '../config';
+import '../main/navbar.css'
 
 export default function AdminLogin({ onAdminLogin }) {
   const [formData, setFormData] = useState({

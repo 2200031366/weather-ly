@@ -1,6 +1,7 @@
 import React from 'react';
 import { Pie } from 'react-chartjs-2';
 import './admin.css'
+import '../main/navbar.css'
 import '../config'
 
 const AdminHome = () => {
