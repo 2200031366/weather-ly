@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import '../images/cloudcover.jpg'
+import '../../public/images/cloudcover.jpg'
 import './navbar.css'
 import '../config'
 
