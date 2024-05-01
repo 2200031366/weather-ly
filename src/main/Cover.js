@@ -1,8 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import '../images/cloudcover.jpg'
-import './navbar.css'
-import '../config'
+import './navbar.css';
+import '../config';
 
 const Cover = () => {
   return (
@@ -17,6 +16,3 @@ const Cover = () => {
 };
 
 export default Cover;
-
-
-//cover page
