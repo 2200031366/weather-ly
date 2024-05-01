@@ -1,6 +1,6 @@
 const config = 
 {
-    url: 'https://backendapp-c3mb.onrender.com'
+    url: 'https://localhost:2023'
 };
 
 export default config;
