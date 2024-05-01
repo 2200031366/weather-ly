@@ -68,13 +68,13 @@ h2 {
     font-weight: bold;
   }
  
-  body {
+  /* body {
     background-image: url("c:\Users\gnksr\Downloads\clouds.jpg") ;
     background-repeat: no-repeat;
     background-size: cover; 
 
     
-  }
+  } */
 /* Updated CSS */
 /* Center the login box and button */
 .login-container {

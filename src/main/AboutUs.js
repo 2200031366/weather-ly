@@ -1,5 +1,7 @@
 import React from 'react';
 import '../config'
+import './navbar.css';
+
 
 const About = () => {
   return (
